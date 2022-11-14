@@ -12,10 +12,10 @@ export default defineConfig({
         // Set the entry point (file that contains our components exported).
         entry: resolve(__dirname, 'src/index.ts'),
         // Name of the library.
-        name: 'test-lib',
+        name: 'test-lib-gaspari',
         // We are building for CJS and ESM, use a function to rename automatically files.
-        // Example: test-lib.esm.js
-        fileName: (format) => `${'test-lib'}.${format}.js`,
+        // Example: test-lib-gaspari.esm.js
+        fileName: (format) => `${'test-lib-gaspari'}.${format}.js`,
       },
       rollupOptions: {
         // Vue is provided by the parent project, don't compile Vue source-code inside our library.

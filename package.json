@@ -1,14 +1,14 @@
 {
-  "name": "test-lib",
+  "name": "test-lib-gaspari",
   "author": "Enrico Paolazzi",
   "version": "0.0.1",
   "description": "",
   "private": false,
-  "homepage": "https://github.com/enricopaolazzi/test-lib",
+  "homepage": "https://github.com/enricopaolazzi/test-lib-gaspari",
   "main": "test-lib.es.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/enricopaolazzi/test-lib"
+    "url": "git+https://github.com/enricopaolazzi/test-lib-gaspari"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
