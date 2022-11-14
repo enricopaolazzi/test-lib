@@ -1,5 +1,5 @@
 interface RadioGroupOptions {
-    id: string | number;
+    id: any;
     label : string;
     name : string;
     value : string | number;
