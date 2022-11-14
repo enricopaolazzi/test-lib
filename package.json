@@ -1,11 +1,14 @@
 {
   "name": "test-lib-gaspari",
   "author": "Enrico Paolazzi",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "private": false,
   "homepage": "https://github.com/enricopaolazzi/test-lib-gaspari",
-  "main": "test-lib-gaspari.es.js",
+  "files": ["dist"],
+  "main": "dist/test-lib-gaspari.umd.js",
+  "module": "dist/test-lib-gaspari.es.js",
+  "types": "dist/types/index.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/enricopaolazzi/test-lib-gaspari"
