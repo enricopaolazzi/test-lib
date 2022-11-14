@@ -1,9 +1,15 @@
 {
   "name": "test-lib",
   "author": "Enrico Paolazzi",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
+  "private": false,
+  "homepage": "https://github.com/enricopaolazzi/test-lib",
   "main": "test-lib.es.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enricopaolazzi/test-lib"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "vite",
