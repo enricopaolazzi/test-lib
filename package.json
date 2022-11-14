@@ -1,11 +1,11 @@
 {
   "name": "test-lib-gaspari",
   "author": "Enrico Paolazzi",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "private": false,
   "homepage": "https://github.com/enricopaolazzi/test-lib-gaspari",
-  "main": "test-lib.es.js",
+  "main": "test-lib-gaspari.es.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/enricopaolazzi/test-lib-gaspari"
